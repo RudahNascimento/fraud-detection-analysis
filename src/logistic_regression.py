@@ -7,7 +7,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 
 from functions import roc_curve_visualization
 
-df = pd.read_csv("../data/transactional-sample.csv")
+df = pd.read_csv("data/transactional-sample.csv")
 
 # Feature Engineering
 
