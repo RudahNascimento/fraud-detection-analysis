@@ -44,10 +44,10 @@ project/
 0. Python version: 3.11
 
 1. Install dependencies:
-py -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
-2. Run the project:
-py src/logistic_regression.py
+2. Run the project (run the script from the project root directory to ensure correct file paths):
+python src/logistic_regression.py
 
 ## 3) Machine Learning Model
 
